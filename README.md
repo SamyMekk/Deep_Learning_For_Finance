@@ -69,7 +69,7 @@ La fonction d'erreur choisie est celle du $MSE$ et l'Optimiser celui de Adam. L'
 
 Création du dataset:
 
-Pour entraîner notre modèle de Deep Learning, nous allons générer nos propres données. Pour se faire, nous allons nous baser sur la valeur de référence des paramètres du modèle que sont : $\kappa_{x}=0.0717, \kappa_{y}=0.089 , \sigma_{x}=0.0947, \sigma_{y}=0.0947 $ et $\rho=-0.999$
+Pour entraîner notre modèle de Deep Learning, nous allons générer nos propres données. Pour se faire, nous allons nous baser sur la valeur de référence des paramètres du modèle que sont : $\kappa_{x}=0.0717, \kappa_{y}=0.089 , \sigma_{x}=0.0947, \sigma_{y}=0.0947$ et $\rho=-0.999$
 
 
 
