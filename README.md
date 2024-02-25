@@ -32,7 +32,7 @@ Nous allons implémenter les modèles de Deep Learning via l'utilisation de la l
 
 Création du dataset:
 
-Pour entraîner notre modèle de Deep Learning, nous allons générer nos propres données. Pour se faire, nous allons nous baser sur la valeur de référence des paramètres du modèle que sont : $\kappa_{x}=0.0717, \kappa_{y}=0.089 , \sigma_{x}=0.0947, \sigma_{y}=0.0947 $ et $\rho=-0.999$
+Pour entraîner notre modèle de Deep Learning, nous allons générer nos propres données. Pour se faire, nous allons nous baser sur la valeur de référence des paramètres du modèle que sont : $\kappa_{x}=0.0717, \kappa_{y}=0.089 , \sigma_{x}=0.0947, \sigma_{y}=0.0947$ et $\rho=-0.999$
 
 Nous allons ensuite définir de manière uniforme une distribution des paramètres autour de cette valeur pour pouvoir définir nos paramètres de modèle.
 Nous allons ensuite entraîner notre modèle à partir de fonctions implicites liant notre vecteur $\Theta$ qui caractérisent le modèle G2++. En effet, on va utiliser les covariances et corrélations entre les Taux ZC de différentes maturités et les Taux Forwards de différentes maturités. Pour se faire, on va utiliser :
