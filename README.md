@@ -94,7 +94,7 @@ Comme dans l'article, on va s'intéresser à certaines maturités pour le calcul
 
 Il est également question de propagation des taux ( Notion que je n'arrive pas à comprendre) de sorte à définir nos données d'entrée par une fonction telle que $\Phi : \Theta -> M_{106,24}^{\mathbb{R}}$ où $\Theta$ représente l'ensemble des paramètres du modèle et $M_{106,24}^{\mathbb{R}}$ représente la matrice telle que les colonnes représente les différents tenors sélectionnés d'où la dimension de $24$ et les lignes représentent la propagation qui se fait sur 2 ans semaine par semaine d'où la dimension de $106$. On a alors :
 
-- $\Phi(\Theta)_{i,j}=E(Z(T_{i},T_{j}))$.
+- $\Phi(\Theta_{i,j})=\mathbb{E}(Z(T_{i},T_{j}))$.
 
 
 
