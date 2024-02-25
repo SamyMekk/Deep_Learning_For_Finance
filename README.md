@@ -42,7 +42,7 @@ Nous allons ensuite entraîner notre modèle à partir de fonctions implicites l
 
 Avec :
 
-- $X(T)=\sigma_{x}\frac{1-e^{-\kappa_{x}T}}{\kappa_{x}T} $ si $G(T)=Z(.,T)$
+- $X(T)=\sigma_{x}\frac{1-e^{-\kappa_{x}T}}{\kappa_{x}T}$ si $G(T)=Z(.,T)$
 - $X(T)=\sigma_{x}e^{-\kappa_{x}T}$ si $G(T)=f(.,T)$
 
 Y est obtenu par symétrie de X.
