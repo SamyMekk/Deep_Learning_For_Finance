@@ -10,7 +10,7 @@ Avec :
 
 - $dx(t)=-\kappa_{x}x(t)dt+\sigma_{x}dW_{x}(t)$
 - $dy(t)=-\kappa_{y}y(t)dt+\sigma_{y}dW_{y}(t)$
-- $d<W_{x},W_{y}>_{t}=\rho dt$
+- $d <W_{x},W_{y}>_{t}=\rho dt$
 - $\phi(t)=f(0,t)+\frac{\sigma_{x}^{2}}{2a^{2}}(1-e^{-2at})^{2}+\frac{\sigma_{y}^{2}}{2b^{2}}(1-e^{-2at})^{2}+\frac{\rho \sigma_{x}\sigma_{y}}{ab}(1-e^{-at})(1-e^{-bt})$
 
 
