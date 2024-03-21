@@ -1,4 +1,4 @@
-<h1> <center> Dans ce projet, on va s'intéresser à la calibration du modèle G2++ par des méthodes de Deep-Learning </center> </h1>
+<h1> <center> Calibration du modèle G2++ par des méthodes de Deep-Learning </center> </h1>
 
 
 On rappelle ci-dessous le modèle G2++ :
