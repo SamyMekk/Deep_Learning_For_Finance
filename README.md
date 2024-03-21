@@ -122,4 +122,9 @@ La fonction d'erreur choisie est celle du $MSE$ et l'Optimiser celui de Adam. L'
 
 
 
+<h1> <center> Calibration du Paramètre de Hurst par Approche Deep Learning  </center> </h1>
+
+
+
+
 
